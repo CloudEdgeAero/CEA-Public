@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Welcome to Cloud Edge Aero
 
 We are an innovative startup focussed on revolutionising the way unmanned aircraft are seen and used in society.
